@@ -1,6 +1,6 @@
-# Apuracao Simples Nacional
+# Demonstração — Apuração do Simples Nacional (RBT12, alíquota efetiva e DAS)
 
-> Projeto de portfólio de **Victória Pedrosa** (Automação, Processos e Dados). Automação desenvolvida para um escritório de contabilidade; **esta é uma versão com dados fictícios** — nomes, CNPJs, e-mails e IDs internos foram substituídos.
+> Projeto de portfólio de **Victória Pedrosa**. **Demonstração** de apuração do Simples Nacional (RBT12, alíquota efetiva e DAS) — versão com dados fictícios (nomes, CNPJs, e-mails e IDs internos substituídos).
 
 ## Problema de negócio
 A apuração do Simples envolve RBT12, alíquotas efetivas, antecipação do DAS e conferência de faturamento — muitos passos manuais.
